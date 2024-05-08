@@ -1,0 +1,131 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    display: flex;
+    justify-content: center;
+
+    
+}
+.container{
+    border-radius: 10px;
+    margin-top: 130px;
+    font-family:  Helvetica;
+    color: white;
+    background-color:hsl(0, 0%, 12%);
+    text-align: center;
+    width: 400px;
+}
+.p{
+    color:hsl(75, 94%, 57%);
+    
+}
+
+p{
+    font-size: 14px;
+}
+.github:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+    font-size: bold;
+    width: 310;
+    height: 10;
+}
+    
+.github{
+    display: flex;
+    background-color: hsl(0, 0%, 20%);
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 12%;
+    margin-bottom: 20px;
+    cursor: pointer;
+   
+}
+.frontend:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+    font-size: bold;
+    width: 310;
+    height: 10;
+
+}
+.frontend{
+    display: flex;
+    background-color: hsl(0, 0%, 20%);
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 12%;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.twiter:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+    font-size: bold;
+    width: 310;
+    height: 10;
+
+}
+.twiter{
+    display: flex;
+    background-color: hsl(0, 0%, 20%);
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 12%;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+.linkedin:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+    font-size: bold;
+    width: 310;
+    height: 10;
+
+}
+.linkedin{
+    display: flex;
+    background-color: hsl(0, 0%, 20%);
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 12%;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.instagram:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+    font-size: bold;
+    width: 310;
+    height: 10;
+
+}
+.instagram{
+    display: flex;
+    background-color: hsl(0, 0%, 20%);
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 12%;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+img{
+    border-radius: 100px;
+    width: 120px;
+}
